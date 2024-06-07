@@ -1,4 +1,4 @@
-# PRODIGY_SD_04
+# PROJECT_Sudoku_Solver
 ### Sudoku Solver
 
 This Java project implements a Sudoku solver using a backtracking algorithm to find the solution for a given Sudoku puzzle. 
